@@ -10,3 +10,9 @@ Instale os pacotes necessários e rode o comando para subir a aplicação localm
 > npm install
 > npm start
 ```
+
+## Como usar
+
+```js
+Pesquise qualquer nome no campo superior e assista o vídeo que preferir no resultado da busca.
+```
